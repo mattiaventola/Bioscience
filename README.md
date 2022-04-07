@@ -1,4 +1,4 @@
-# Covid-19 European Sentiment Story and focus on Italy Quality of Life Change in 2021
+# Covid-19 European Sentiment Story and focus on Italian change of Quality of Life in 2021
 
 Full Presentation and Visualizations available at:
 
